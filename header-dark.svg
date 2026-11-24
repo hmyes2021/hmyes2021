@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Heba Moussa. Digital web strategist in healthcare, UX research and human-centered AI.">
+  <rect width="1200" height="300" fill="#111111"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#2a2a2a"/>
+  <line x1="0" y1="56" x2="1200" y2="56" stroke="#2a2a2a"/>
+  <text x="40" y="38" font-family="'Space Grotesk', Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="24" letter-spacing="-1" fill="#f2f2f2">HM<tspan fill="#9a9a9a">.</tspan></text>
+  <text x="1160" y="35" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9a9a9a">BOSTON, MA · HEBAMOUSSA.COM</text>
+  <text x="40" y="104" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9a9a9a">PORTFOLIO · 2026</text>
+  <text x="38" y="178" font-family="'Space Grotesk', Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="500" font-size="68" letter-spacing="-2.5" fill="#f2f2f2">Heba Moussa<tspan fill="#9a9a9a">.</tspan></text>
+  <text x="40" y="222" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#f2f2f2">Digital web strategist in healthcare <tspan fill="#9a9a9a">· UX research · human-centered AI</tspan></text>
+  <text x="40" y="264" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9a9a9a">SEO &amp; AEO · CONTENT STRATEGY · WEB ACCESSIBILITY</text>
+  <g transform="translate(900 82)">
+    <rect width="260" height="180" fill="#1a1a1a" stroke="#2a2a2a"/>
+    <text x="20" y="32" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#9a9a9a">SELECTED WORK</text>
+    <text x="20" y="96" font-family="'Space Grotesk', Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="300" font-size="64" fill="none" stroke="#f2f2f2" stroke-width="1.2">08</text>
+    <text x="20" y="132" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#f2f2f2">case studies</text>
+    <text x="20" y="156" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9a9a9a">healthcare · education · travel</text>
+  </g>
+</svg>
